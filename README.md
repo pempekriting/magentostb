@@ -2,7 +2,7 @@
 
 # Project Automation Web
 
-Hi! This is a project automation web with study case [Sauce Labs](https://www.saucedemo.com/) using Maven, Cucumber, TestNG, and Selenium
+Hi! This is a project automation web with study case [LUMA E-commerce](https://magento.softwaretestingboard.com/) using Maven, Cucumber, TestNG, and Selenium
 
 ## Getting Started
 
@@ -44,3 +44,6 @@ What things you need to install:
 ## Report
 
 You can check the report [here](https://pempekriting.github.io/magentostb/report/cucumber-html-reports/overview-features.html)
+
+Also for the local side terminal results
+![](evidence/img.png)
